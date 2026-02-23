@@ -1,7 +1,7 @@
 import os
 
 from nutrient_sdk import Document, Vision
-from nutrient_sdk.settings import VlmProvider
+from nutrient_sdk import VlmProvider
 
 try:
     from dotenv import load_dotenv
