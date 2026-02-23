@@ -1,3 +1,4 @@
 .env
+.env.example
 output.json
 claude_description.txt
